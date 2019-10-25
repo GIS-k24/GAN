@@ -1,6 +1,10 @@
 """
 CNN + GAN
 包括：卷积判别网络和卷积生成网络
+
+环境：
+      torch           1.3.0+cpu
+      torchvision     0.4.1+cpu
 """
 
 import torch
